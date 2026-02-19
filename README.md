@@ -1,5 +1,4 @@
 # python_basic
-# Python Basic
 
 ## Simple Calculator Project
 
